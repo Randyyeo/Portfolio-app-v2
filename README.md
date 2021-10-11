@@ -1,1 +1,1 @@
-# Portfolio-app-v2
+# Portfolio-Strapi-Frontend
